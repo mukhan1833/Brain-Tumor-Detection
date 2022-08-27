@@ -1,10 +1,11 @@
 # Brain-Tumor-Detection
 
-INTRODUCTION:
+**INTRODUCTION:**
+
 This project is based on health and the main function of this project is to find either the mri scan contain pituatory brain tumor or not. The front-end of this project is built on streamlit and it is based on Logistice regression and SVM algorithm.
 
 
-Steps to Install:
+**Steps to Install:**
 1) Install Anaconda
 2) After Installing Anaconda open Environments and create new environment and name it Streamlit.
 ![image](https://user-images.githubusercontent.com/58435443/187037515-d9497bb1-1f2d-41f1-88b6-02880ccf30a2.png)
@@ -16,7 +17,7 @@ Steps to Install:
 6) After the installation of all the libraries then write streamlit run project.py
 
 
-OUTPUT:
+**OUTPUT:**
 
 ![image](https://user-images.githubusercontent.com/58435443/187037720-4ce2726f-709a-48eb-9ec4-08cbf463b23c.png)
 
